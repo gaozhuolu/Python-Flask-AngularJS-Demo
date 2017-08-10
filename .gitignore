@@ -1,5 +1,4 @@
-env
-venv
+myprojectenv
 __pycahe__
 *.pyc
 *.sqlite
