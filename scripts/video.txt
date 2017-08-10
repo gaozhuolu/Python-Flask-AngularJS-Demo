@@ -1,0 +1,1000 @@
+Natural Language Processing With Python and NLTK p.1 Tokenizing words and Sentences
+http://www.youtube.com/watch?v=FLZvOKSCkxY
+
+
+
+NLTK Corpora - Natural Language Processing With Python and p.9
+http://www.youtube.com/watch?v=TKAXDqoG2dc
+
+
+
+Tony Ojeda, Benjamin Bengfort, Laura Lorenz - Natural Language Processing with and...
+http://www.youtube.com/watch?v=itKNpCPHq3I
+
+
+
+Natural language processing in Python using NLTK. Part 1/3
+http://www.youtube.com/watch?v=AOU-Yw1qdJs
+
+
+
+Introduction to Natural Language Processing with Python - Asyncjs
+http://www.youtube.com/watch?v=IMKweOTFjXw
+
+
+
+NLTK and Text Procesing - Andrew Montalenti
+http://vimeo.com/53062324
+
+
+
+nltk presentation part 1
+http://www.youtube.com/watch?v=7rQyfzlKik0
+
+
+
+nltk presentation part 3
+http://www.youtube.com/watch?v=Ca-2BPod3AY
+
+
+
+Install NLTK 3 for Python 3.4 on Windows 7 64-bit Machine
+http://www.youtube.com/watch?v=dp1u6c4VsEU
+
+
+
+Computing Document Similarity with NLTK
+http://www.youtube.com/watch?v=I_xKmOnAXFk
+
+
+
+Words as Features for Learning - Natural Language Processing With Python and p.12
+http://www.youtube.com/watch?v=-vVskDsHcVc
+
+
+
+Combining Algos with a Vote - Natural Language Processing With Python and p.16
+http://www.youtube.com/watch?v=vlTQLb_a564
+
+
+
+Named Entity Recognition - Natural Language Processing With Python and p.7
+http://www.youtube.com/watch?v=LFXsG7fueyk
+
+
+
+Install Python NLTK on Windows
+http://www.youtube.com/watch?v=68aHmFcO-W4
+
+
+
+4. Python Natural Language Processing Coding Basics : Installing
+http://www.youtube.com/watch?v=3NTCQllXPfs
+
+
+
+How to use NLTK on Windows 10
+http://www.youtube.com/watch?v=xvNB2ZIDUkQ
+
+
+
+Twitter sentiment analysis with Python and NLTK
+http://www.youtube.com/watch?v=iHolzwYfOfo
+
+
+
+nltk presentation part2
+http://www.youtube.com/watch?v=Gg_Kmz306KI
+
+
+
+NLTK
+http://www.powershow.com/view4/5744de-OThmY/NLTK_powerpoint_ppt_presentation
+
+
+
+[PyConTW 2012] NLTK: Natural Language Toolkit Introduction and Application by 賴弘哲
+http://www.youtube.com/watch?v=J0_O7RWaQg0
+
+
+
+Lexical Graphs with Natural Language Processing using
+http://www.youtube.com/watch?v=cj-DTFmIUjE
+
+
+
+nltk presentation part 4
+http://www.youtube.com/watch?v=OQvsurkdOtA
+
+
+
+NLTK Tagging
+http://www.powershow.com/view1/6494e-ZDc1Z/NLTK_Tagging_powerpoint_ppt_presentation
+
+
+
+Natural Language Processing in Python
+http://www.youtube.com/watch?v=kKe4M4iSclc
+
+
+
+NLTK: The Natural Language Toolkit
+http://www.powershow.com/view/b02c1-ZjI1M/NLTK_The_Natural_Language_Toolkit_powerpoint_ppt_presentation
+
+
+
+Machine Learning with Text in scikit-learn (PyCon 2016)
+http://www.youtube.com/watch?v=ZiKMIuYidY0
+
+
+
+25 Python NLTK Stopword Removal
+http://www.youtube.com/watch?v=aLORD3SoQ1A
+
+
+
+Natural language processing in Python using NLTK. Part 2/3
+http://www.youtube.com/watch?v=EuIzZMfHTCg
+
+
+
+NLTK vs Twitter: A Voyage into Linguistic Frontiers - Max Thayer
+http://www.youtube.com/watch?v=l7LosrTyyR4
+
+
+
+Baypiggies User Group: The Natural Language Toolkit
+http://www.youtube.com/watch?v=keXW_5-llD0
+
+
+
+Stopwords in NLTK - Intro to Machine Learning
+http://www.youtube.com/watch?v=DxCwtkrYR-s
+
+
+
+Natural language processing in Python using NLTK. Part 3/3
+http://www.youtube.com/watch?v=ncUIzVG2zzs
+
+
+
+Parsing sentences with the OTHER natural language tool: LinkGrammar
+http://www.youtube.com/watch?v=Wk8zAr0R9zQ
+
+
+
+28 Python NLTK Part of Speech
+http://www.youtube.com/watch?v=OuDTcrWqQTI
+
+
+
+nltk presentation part 5
+http://www.youtube.com/watch?v=MONKCUciruk
+
+
+
+Stemming with NLTK - Intro to Machine Learning
+http://www.youtube.com/watch?v=gWbkW_cyNs8
+
+
+
+NLTK Stopwords Solution - Intro to Machine Learning
+http://www.youtube.com/watch?v=R0RqC-yerD4
+
+
+
+Twitter Sentiment Analysis - Learn Python for Data Science #2
+http://www.youtube.com/watch?v=o_OZdbCzHUA
+
+
+
+Natural Language Processing With Python and NLTK p.1 Tokenizing words and Sentences
+http://www.ytclone.com/watch?v=FLZvOKSCkxY
+
+
+
+Lec18b-NLTK Interface to Wordnet
+http://vimeo.com/5522802
+
+
+
+Sentiment analysis and other natural language processing w/ Python
+http://www.youtube.com/watch?v=RtMAyj94Ztw
+
+
+
+R2 DAY3-01 Sentiment Analysis by NLTK - Wei-Ting Kuo (PyCon APAC 2015)
+http://www.youtube.com/watch?v=2AL1ylorFKc
+
+
+
+Lookup Lemmas in WordNet Python NLTK
+http://www.youtube.com/watch?v=kH45b72f7gQ
+
+
+
+installing NLTK from source svn checkout. Relatively easy with SVN... now to build it...
+http://www.youtube.com/watch?v=ItrcRBZx0xE
+
+
+
+How to analyze Shakespeare with Python in five minutes
+http://www.youtube.com/watch?v=IL7NQd79jH4
+
+
+
+Lookup Synset wordnet Python NLTK
+http://www.youtube.com/watch?v=VlHzbW4pH2g
+
+
+
+DC Python Talk: Introduction to NLTK Classifiers by Lababidi
+http://www.youtube.com/watch?v=F-tvXzyjKWA
+
+
+
+Rutu Mulkar Mehta: Using Python for Linguistic Data Analysis
+http://www.youtube.com/watch?v=gJwFHSeFg44
+
+
+
+Text Corpus Analysis - PoolParty Tutorial #21
+http://www.youtube.com/watch?v=2E5V-mmH_1c
+
+
+
+(ML 14.4) Hidden Markov models (HMMs) (part 1)
+http://www.youtube.com/watch?v=TPRoLreU9lA
+
+
+
+Using TF-IDF to convert unstructured text to useful features
+http://www.youtube.com/watch?v=hXNbFNCgPfY
+
+
+
+HOWTO: Teach Python to Read
+http://www.youtube.com/watch?v=1f8p1tKsOmI
+
+
+
+Parsing Text Files in Python
+http://www.youtube.com/watch?v=1uA-pLITer0
+
+
+
+Google Developers Day US - Theorizing from Data
+http://www.youtube.com/watch?v=nU8DcBF-qo4
+
+
+
+Mod-01 Lec-29 Wordnet and Word Sense Disambiguation
+http://www.youtube.com/watch?v=ds73voH7GjA
+
+
+
+What does GATE do
+http://www.youtube.com/watch?v=qRQXEe58rJA
+
+
+
+1 What is a chatbot?
+http://www.youtube.com/watch?v=TjvuyaCfdm4
+
+
+
+COCA 02: Using Part-of-Speech Tags
+http://www.youtube.com/watch?v=KP-7thiUnLM
+
+
+
+Human as a Second Language: Succeeding with the Natural Language Toolkit
+http://www.youtube.com/watch?v=GynvZHDdUgA
+
+
+
+Analyzing social media data with Python
+http://www.youtube.com/watch?v=UeSUUJFiHFY
+
+
+
+PyCon Italy 2014] D. Pyrathon - Machine Learning: sentiment analysys con ZMQ e ...
+http://www.youtube.com/watch?v=WXB40jqU-S0
+
+
+
+Mod-01 Lec-10 Part of Speech Tagging
+http://www.youtube.com/watch?v=h2-ucVkq1tc
+
+
+
+Corpus Reader Tool
+http://www.youtube.com/watch?v=rtARJg24S8g
+
+
+
+Ned Jackson Lovely: Enough Machine Learning to Make Hacker News Readable Again - PyCon...
+http://www.youtube.com/watch?v=O7IezJT9uSI
+
+
+
+Tom Christiansen Perl NLP: Stemming and Lemmatizing
+http://www.youtube.com/watch?v=WJgoSm-P4Ao
+
+
+
+cs224n lecture05
+http://www.youtube.com/watch?v=YFm-0NTM_Z0
+
+
+
+Droideka - GET HYPER (Official Video)
+http://www.youtube.com/watch?v=NxuJ3RosR80
+
+
+
+1 What is a chatbot? Racer.lt
+http://www.racer.lt/play/372163/1-what-is-a-chatbot.html
+
+
+
+GraphSearch & Text Corpus Analysis - PoolParty 5.2
+http://www.youtube.com/watch?v=mO4cxTOmi4k
+
+
+
+GARP FRM 2013 Part 2 Sample Paper Questions 8 - YouTube
+http://www.youtube.com/watch?v=xxDg9sghz4k
+
+
+
+S.O.L.I.D-ый JavaScript
+http://www.youtube.com/watch?v=wi3wPzReKZQ
+
+
+
+Create MySQLite DB helper // Google Maps with Database
+http://www.youtube.com/watch?v=G87jlQZeQJ0
+
+
+
+MTO On Blast: Using Python's Natural Language Toolkit to Model Gossip Blogs
+http://www.youtube.com/watch?v=STikIKmsOy8
+
+
+
+Lecture on Russian WordNet
+http://www.youtube.com/watch?v=u_G66_VITqo
+
+
+
+Text mining online data with scikit-learn by Robert Layton
+http://www.youtube.com/watch?v=2AEM89ltcgY
+
+
+
+UCLA Russian Flagship Lecture
+http://www.youtube.com/watch?v=-SVkYNt8mqc
+
+
+
+Apocalypse Soon? Bill Salus Interview PPS Report March 21st, 2017
+http://www.youtube.com/watch?v=jhbtF84gK-c
+
+
+
+La compilation des drôles de chats
+http://www.youtube.com/watch?v=UTx_DF2IsFk
+
+
+
+Mason - Exceeder (Original Mix)
+http://www.youtube.com/watch?v=NuCHg_yfOhk
+
+
+
+PSD2 panel discussion at European FinTech Awards & Conference 2016 Amsterdam
+http://www.youtube.com/watch?v=NVKV9VswbSM
+
+
+
+String Matching with Finite Automata
+http://www.youtube.com/watch?v=M_XpGQyyqIQ
+
+
+
+STEM System demos running with the Hydra
+http://www.youtube.com/watch?v=kM7scm7xc5I
+
+
+
+FreeCodeCamp Twitch API Project First Part
+http://www.youtube.com/watch?v=unwUtXrWU1M
+
+
+
+ASMR~ Gaming Store
+http://www.youtube.com/watch?v=krooozq-wK4
+
+
+
+chat met sinterklaas
+http://www.youtube.com/watch?v=oQpPRBB2kMU
+
+
+
+AntConc 3.2.4 Tutorial 1: Concordance Tool - Basic Features
+http://www.youtube.com/watch?v=9TsqFVrUYO0
+
+
+
+André Hazes - De Vlieger
+http://www.youtube.com/watch?v=2LQMnstljjE
+
+
+
+Barbie Life in the Dreamhouse Nederland -// HD Compilatie
+http://www.youtube.com/watch?v=cnxuH-0cEgk
+
+
+
+++Tyrant Alert++ Missouri City, Tx. Police Dept.
+http://www.youtube.com/watch?v=QYYDgeu25QI
+
+
+
+DarkOrbit GenCo Eob Baba Special #Dominate III [ Sezon Finali ]
+http://www.youtube.com/watch?v=BGBpm3m13ww
+
+
+
+Shoah film (1985) svensk text del 3 av 4
+http://www.youtube.com/watch?v=rNbr66kOeS8
+
+
+
+2015 - CS 224D Lecture 1 - Lectures from 2015
+http://www.youtube.com/watch?v=sU_Yu_USrNc
+
+
+
+Custom Build #93 (ft. Scoot Mag) The Vault Pro Scooters
+http://www.youtube.com/watch?v=6pSuXHHOF4Q
+
+
+
+Henk Dissel - Jij en ik (officiële videoclip)
+http://www.youtube.com/watch?v=jCPkrdJQMDk
+
+
+
+Froid comme la vengeance (2013) film complet en francais
+http://www.youtube.com/watch?v=uCnw8rrpxSY
+
+
+
+How To Meet A Hot Girl.
+http://www.youtube.com/watch?v=CQZgf942hXc
+
+
+
+Vrouwen Om Sex Vragen En Dan Haar Nummer Krijgen (GAAT BIJNA FOUT)
+http://www.youtube.com/watch?v=vZVQrs7CoT8
+
+
+
+SpeakPython - Raspberry Pi - LED Example
+http://www.youtube.com/watch?v=o_op-FsLuFM
+
+
+
+De Bende van Hiernaast
+http://www.youtube.com/watch?v=2dhelcouxYs
+
+
+
+Eerste Keer Seks! | Seizoen 3
+http://www.youtube.com/watch?v=KBxE-HoeUbk
+
+
+
+Pervert! full movie
+http://www.youtube.com/watch?v=fzwhlQs9A8E
+
+
+
+There Was A Little Boy Full Movie
+http://www.youtube.com/watch?v=oSEJ-RA2P3w
+
+
+
+CS 224D Lecture 2 - Lectures from 2015
+http://www.youtube.com/watch?v=T8tQZChniMk
+
+
+
+FanFest 2016 - Event Livestream with Sabrina Carpenter - Disney Channel Official
+http://www.youtube.com/watch?v=tE2qH6vHIaE
+
+
+
+Yamakasi 2 CZ Dabing
+http://www.youtube.com/watch?v=zIYPy8MR0xc
+
+
+
+From the Lab to the Factory: Building a Production Machine Learning Infrastructure
+http://www.youtube.com/watch?v=v-91JycaKjc
+
+
+
+Opwekking 717 - Stil, mijn ziel, wees stil + tekst.
+http://www.youtube.com/watch?v=tPPkNMEioaY
+
+
+
+Op zoek naar Shawn Mendes!
+http://www.youtube.com/watch?v=WVtK3pS8h_E
+
+
+
+Intro to R Session 3.5 (Data Manipulation - World Bank Data)
+http://www.youtube.com/watch?v=6qmYxYtY6Rg
+
+
+
+6. Python Natural Language Processing Coding Basics: Named Entity Recognition
+http://www.youtube.com/watch?v=ePoNdsggMw0
+
+
+
+Zwarte piet freerunning.
+http://www.youtube.com/watch?v=atEYq1ovrTg
+
+
+
+Precious Metal Refining & Recovery, Episode 17: Teeth
+http://www.youtube.com/watch?v=W3bkIkIKKEs
+
+
+
+Sonamy- E.T.
+http://www.youtube.com/watch?v=G9Vepm3d91E
+
+
+
+Natural Language Processing using NLTK in Python 1 - YouTube
+http://www.youtube.com/watch?v=WNS1WkxDzpI
+
+
+
+Stemming Words in Python NLTK
+http://www.youtube.com/watch?v=9Nuc7EhdNOs
+
+
+
+aprende alemán.der kleine nick. die trompete.learn german.B2 (subtitulado alemán)
+http://www.youtube.com/watch?v=0aNDo6T5clA
+
+
+
+Dann kannst du frei sein - schwuler Kurzfilm
+http://www.youtube.com/watch?v=b-ERB8leel8
+
+
+
+"Ave Amira" documentary by TV Gelderland Dec 2016 with English subtitles
+http://www.youtube.com/watch?v=vN-DOKdIaxU
+
+
+
+Нефть / Ropa - napisy PL
+http://www.youtube.com/watch?v=c7i20P0SiKM
+
+
+
+Parts of Speech Searches
+http://www.youtube.com/watch?v=s5a_XuCVH70
+
+
+
+Open and Exploratory Extraction of Relations and Common Sense from Large Text Corpora...
+http://www.youtube.com/watch?v=Ce499F0M_rM
+
+
+
+Python Beginner Tutorial 2 (For Absolute Beginners)
+http://www.youtube.com/watch?v=hFhiV5X5QM4
+
+
+
+Udo - Rolling in the deep (Adele) / Crazy (Gnarls Barkley) @ Palm Parkies Torhout
+http://www.youtube.com/watch?v=kCWlYiRMKaQ
+
+
+
+python pip and installing a python egg is not that easy
+http://www.youtube.com/watch?v=a-5AqVmH-u4
+
+
+
+26 Python NLTK Stemming
+http://www.youtube.com/watch?v=ORN9u9vLgsA
+
+
+
+Lemmatizing - Natural Language Processing With Python and p.8
+http://www.youtube.com/watch?v=uoHVztKY6S4
+
+
+
+The normal christian life dan mohler
+http://www.youtube.com/watch?v=IAGqzlrDPLw
+
+
+
+Lecture 12 | Programming Paradigms (Stanford)
+http://www.youtube.com/watch?v=0rXjvLa2NSs
+
+
+
+Using Latent Dirichlet Allocation (LDA) with Python
+http://www.youtube.com/watch?v=BAkpWMSrvsQ
+
+
+
+Investigating Bias - Natural Language Processing With Python and p.17
+http://www.youtube.com/watch?v=h44hI7lr8w4
+
+
+
+NHL Youtubers/Streamers Fantasy Hockey Draft (LIVE)
+http://www.youtube.com/watch?v=NPujvQ2-gJs
+
+
+
+THE BOOK OF ANSWERS! - YouTube
+http://www.youtube.com/watch?v=9N86FZUhpE0
+
+
+
+Speech Recognition Controlling by Voice Command
+http://www.youtube.com/watch?v=lp8132pU5Og
+
+
+
+Mistakes In Marriage - Nollywood 2015 Latest Full Movie
+http://www.youtube.com/watch?v=qyD3k9wJ4U4
+
+
+
+Тушино: SG "Chinval" (Подагорск.)
+http://www.youtube.com/watch?v=Bzj9mEEGIS4
+
+
+
+Scikit-Learn incorporation - Natural Language Processing With Python and p.15
+http://www.youtube.com/watch?v=nla4C-VYNEU
+
+
+
+Sentiment Analysis Module - Natural Language Processing With Python and p.19
+http://www.youtube.com/watch?v=eObouMO2qSE
+
+
+
+Oud Schiedam.
+http://www.youtube.com/watch?v=W95cqvU3P4E
+
+
+
+Using Python for Sarcasm Detection in Speech
+http://www.youtube.com/watch?v=xJlTDy61L8s
+
+
+
+Natural Language Toolkit - Tutorial in Python
+http://www.youtube.com/watch?v=uIz5DpvYQVg
+
+
+
+Twitter Sentiment Analysis
+http://www.youtube.com/watch?v=adIvt_luO1o
+
+
+
+Make an Advanced Python Text Editor (Part 3): Menu Functions
+http://www.youtube.com/watch?v=B1N3JkzmptU
+
+
+
+Text Classification Using Naive Bayes
+http://www.youtube.com/watch?v=EGKeC2S44Rs
+
+
+
+YouTube 101: Search & Browse
+http://www.youtube.com/watch?v=iZZApfdRwYI
+
+
+
+Kado tips sint en kerst!
+http://www.youtube.com/watch?v=3AQ_C2iMU9k
+
+
+
+Classification automatique de texte : scikit-learn et nltk
+http://www.dailymotion.com/video/xeq7jv
+
+
+
+Ronert Obst - Massively Parallel Processing with Procedural Python
+http://www.youtube.com/watch?v=rv6J6CYbGy4
+
+
+
+8. Sentiment Analysis and Big Data: Named Entity Recognition
+http://www.youtube.com/watch?v=5heWVbihZrM
+
+
+
+Top 5 Algorithms used in Data Science | Data Science Tutorial | Data Mining Tutorial
+http://www.youtube.com/watch?v=BfowBtIxNu4
+
+
+
+Python remove unwanted characters
+http://www.youtube.com/watch?v=gQn2n_Vw41s
+
+
+
+Ekahau Site Survey Passive Site Survey - How To
+http://www.youtube.com/watch?v=VVAZD9yjm8w
+
+
+
+Takayuki Shimizukawa - Sphinx autodoc: automated API documentation
+http://www.youtube.com/watch?v=mdtxHjH2wog
+
+
+
+Using Sphinx to Document Python Code
+http://www.youtube.com/watch?v=LQ6pFgQXQ0Q
+
+
+
+Generating lemmatized lists on AntConc
+http://www.youtube.com/watch?v=FAW7nyk7e_I
+
+
+
+The Treehouse Show | Episode 144: WebP, Static Maps, Watermarks
+http://www.youtube.com/watch?v=v_9UYlcjdCc
+
+
+
+Pink guy in times square
+http://www.youtube.com/watch?v=NEl-02qxV3U
+
+
+
+ODIN: 'Ik val op BRUNETTE, maar ga altijd WEG met BLOND - Liefde etc.
+http://www.youtube.com/watch?v=gYyHZcZXitE
+
+
+
+In Telugu:Prophet MUHAMMAD PBUH in Hindu Scriptures by UIRC Brother Shafi
+http://www.youtube.com/watch?v=z9PX_zHg-4k
+
+
+
+HOW TO READ BOOKS IN RUSSIAN?! | Eng CC
+http://www.youtube.com/watch?v=Kj0C2QNW2po
+
+
+
+Mathieu Virbel Kivy versatile framework for mobile and desktop
+http://www.youtube.com/watch?v=-Ha3QwGjQog
+
+
+
+TRUE COUG Episode 2 - "Lactose Intolerant"
+http://www.youtube.com/watch?v=0h-sFDZpmWg
+
+
+
+Clasp: Common Lisp using LLVM and C++ for Molecular Metaprogramming
+http://www.youtube.com/watch?v=8X69_42Mj-g
+
+
+
+TP Toolkit Visual Documentation Series: TP Dynamics
+http://www.youtube.com/watch?v=EHrno2Trcss
+
+
+
+Marcus.&.Karen.Hilton-Simply.the.Best.Slowfox.avi
+http://www.youtube.com/watch?v=Tr_RaZzKzjE
+
+
+
+Roblox Adventures / The Four Elements Tycoon / Earth, Wind, Water, and Fire!
+http://www.youtube.com/watch?v=1oiVrgCmh28
+
+
+
+COCA 01: Introduction to Using the Corpus of Contemporary American English
+http://www.youtube.com/watch?v=sCLgRTlxG0Y
+
+
+
+Creating a corpus by uploading your data.
+http://www.youtube.com/watch?v=xan65zGn7VM
+
+
+
+Sony Vegas // Text effect 10
+http://www.youtube.com/watch?v=OAnPv2NLTk0
+
+
+
+Parsing sentences with the OTHER natural language tool: LinkGrammar
+http://www.youtube.com/watch?v=RQz6cfKZpvY
+
+
+
+Van Lindberg Structured Data from Unstructured Text PyCon 2016
+http://www.youtube.com/watch?v=-K-XtxSyyvU
+
+
+
+Paco Nathan: NLP and text analytics at scale with PySpark and notebooks
+http://www.youtube.com/watch?v=iVbTFIdZ1Io
+
+
+
+CS224D Lecture 9 - Lectures from 2015
+http://www.youtube.com/watch?v=DJHvaGU9SW8
+
+
+
+Overspel seizoen 1 aflevering 3 - Terug naar de brug - part 1.
+http://www.youtube.com/watch?v=W6beU58XOgQ
+
+
+
+Редактируем сервер PW #7.1 Учимся использовать IDA Pro
+http://www.youtube.com/watch?v=uAanyn4NHzE
+
+
+
+Chatten Met Vreemden Wat Als Je De Rollen Van Man En Vrouw Omdraait.
+http://www.youtube.com/watch?v=jifka0u0B5g
+
+
+
+Natural Language Processing and its Applications - Włodzimierz Zadrożny cz.6
+http://www.youtube.com/watch?v=iUlwe4KkSlQ
+
+
+
+Handy Überwachungs Software
+http://www.youtube.com/watch?v=jWpGqMB7ZMA
+
+
+
+Mercer Project Server
+http://www.youtube.com/watch?v=lWI9nYx64Kc
+
+
+
+Naive Bayes - Natural Language Processing With Python and p.13
+http://www.youtube.com/watch?v=rISOsUaTrO4
+
+
+
+Probabilistic Language Modeling - Introduction to N-grams
+http://www.youtube.com/watch?v=aL4HieBodM0
+
+
+
+Manuel Ebert - Putting 1 million new words into the dictionary - PyCon 2016
+http://www.youtube.com/watch?v=sum5Hq2FTsw
+
+
+
+Text mining with Voyant Tools, no R or any other coding required
+http://www.youtube.com/watch?v=Aw06Ymx6joc
+
+
+
+Nine Commentaries Pt 2: The Beginnings of the Chinese Communist Party
+http://www.youtube.com/watch?v=ibkCLbjM4J0
+
+
+
+Text Classification - Natural Language Processing With Python and p.11
+http://www.youtube.com/watch?v=zi16nl82AMA
+
+
+
+Die erotische Massage | Die Dreisten Drei - Die Comedy-WG
+http://www.youtube.com/watch?v=VHHcW2U9NYI
+
+
+
+Processing Text In RapidMiner
+http://www.youtube.com/watch?v=EjD2M4r4mBM
+
+
+
+How to write in multiple Columns in Microsoft Word 2013
+http://www.youtube.com/watch?v=oO_KgvQvXRY
+
+
+
+[PyCon Italy 2014] D. Pyrathon - Machine Learning as a Service
+http://www.youtube.com/watch?v=KPXLQxRslm0
+
+
+
+K3 - Alle Kleuren
+http://www.youtube.com/watch?v=ZRMTC9Tzj2c
+
+
+
+Python for Big Data Analytics - 1 | Python Hadoop Tutorial for Beginners | Python Tutorial
+http://www.youtube.com/watch?v=BiRXCLKLxrc
+
+
+
+#HOWTO - How to Install NLTK on Mac OS X
+http://www.youtube.com/watch?v=KJf4AxabemI
+
+
+
+WordNet - Natural Language Processing With Python and p.10
+http://www.youtube.com/watch?v=T68P5-8tM-Y
+
+
+
+Chunking - Natural Language Processing With Python and p.5
+http://www.youtube.com/watch?v=imPpT2Qo2sk
+
+
+
+Chinking - Natural Language Processing With Python and p.6
+http://www.youtube.com/watch?v=EymPQgCtcAE
+
+
+
+Project WL - CHECKPOINTS WORK and doors too
+http://www.youtube.com/watch?v=YXvJ9c3gC6Y
+
+
+
+Porono diner gaan
+http://www.youtube.com/watch?v=Xg5Tt6ZVZMg
+
+
+
+Remove html tags except links (How to strip RTF except allowed)
+http://www.youtube.com/watch?v=7IqPcSs6PP4
+
+
+
+BYU Wikipedia corpus: Editing corpora
+http://www.youtube.com/watch?v=tzAgZ8kxAPY
+
+
+
+How to use Div Tags and CSS to Create Responsive Website Layouts and Custom CSS Menus
+http://www.youtube.com/watch?v=_fukWxTy31M
+
+
+
+Alcoholics Anonymous (AA) Reading: Chapter 2-"There is a Solution"
+http://www.youtube.com/watch?v=pUMO3pszSU8
+
+
+
