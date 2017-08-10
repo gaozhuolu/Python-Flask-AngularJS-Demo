@@ -1,0 +1,14 @@
+env
+venv
+__pycahe__
+*.pyc
+*.sqlite
+.DS_Store
+.idea
+env.sh
+blog.md
+migrations
+_old
+storage
+profile
+stanfordlib

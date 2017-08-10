@@ -1,0 +1,51 @@
+<div class="wrapper">
+    <div class="content-wrapper" id="contentHeight">
+    <div class="top-new-section">
+        <h1 class="bg-heading">Yandex Searching</h1>
+        <div class="round-top">
+            <div class="common-serach float-right">
+                <div class="field-content search-top">
+                <div class="search-new gray-color">
+                    <div class="btn btn-flat" style="cursor:default;"><i class="fa fa-search"></i></div>
+                    <input class="text-filed" name="searchkey" ng-model="searchkey" type="text">
+                </div>
+            </div>
+            <div class="field-content search-top float-right">
+                <button class="default-btn" ng-click="doYandexSearch()">Search</button></div>
+            </div>
+        </div>
+    </div>
+    <div class="inner-content">
+        <div class="main-content">
+            <div class="tab-content">
+            <div class="tab-pane active">
+            <div class="table-content report-detail">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <tr>
+                            <th>Title</th>
+                            <th>Link</th>
+                            <th>Description</th>
+                        </tr>
+                        <tr dir-paginate="item in filteredlist = searchlist | itemsPerPage: pageSize" current-page="currentPage" style="cursor: pointer;">
+                            <td class="name">{{ item.title}}</td>
+                            <td class="name">{{ item.link }}</td>
+                            <td class="name">{{ item.description}}</td>
+                        </tr>
+                    </table>
+                    <div ng-show="!filteredlist.length" class="noresult" ng-if="contactlist">No results found.</div>
+                </div>
+                <div style="text-align: center;">
+                    <dir-pagination-controls></dir-pagination-controls>
+                </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<script>
+	initFunctions();
+</script>
