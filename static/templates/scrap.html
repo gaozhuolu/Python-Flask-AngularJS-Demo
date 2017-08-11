@@ -38,7 +38,7 @@
                         <tr dir-paginate="item in filteredlist = searchlist | itemsPerPage: pageSize" current-page="currentPage" style="cursor: pointer;">
                             <td class="name">{{ item.title}}</td>
                             <td class="name">{{ item.link }}</td>
-                            <td class="name">{{ item.description}}</td>
+                            <td class="name">{{ item.dscrpt}}</td>
                         </tr>
                     </table>
                     <div ng-show="!filteredlist.length" class="noresult" ng-if="contactlist">No results found.</div>
