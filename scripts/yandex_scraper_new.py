@@ -11,9 +11,9 @@ import math
 import codecs
 from pyvirtualdisplay import Display
 
-abspath = os.path.abspath(__file__)
-dname = os.path.dirname(abspath)
-chrome_path = os.path.join(dname, "chromedriver")
+# abspath = os.path.abspath(__file__)
+# dname = os.path.dirname(abspath)
+# chrome_path = os.path.join(dname, "chromedriver")
 
 os.system("pkill chrome")
 # driver = webdriver.Chrome(chrome_path) 

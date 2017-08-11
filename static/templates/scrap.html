@@ -2,16 +2,24 @@
     <div class="content-wrapper" id="contentHeight">
     <div class="top-new-section">
         <h1 class="bg-heading">Yandex Searching</h1>
+        <div class="sorting-tab">
+            <ul>
+                <li ng-class="{'active': tab == 'web'}"><a href="" ng-click="changedTab('web')">Web</a></li>
+                <li ng-class="{'active': tab == 'images'}"><a href="" ng-click="changedTab('images')">Images</a></li>
+                <li ng-class="{'active': tab == 'video'}"><a href="" ng-click="changedTab('video')">Video</a></li>
+            </ul>
+        </div>
         <div class="round-top">
             <div class="common-serach float-right">
                 <div class="field-content search-top">
-                <div class="search-new gray-color">
-                    <div class="btn btn-flat" style="cursor:default;"><i class="fa fa-search"></i></div>
-                    <input class="text-filed" name="searchkey" ng-model="searchkey" type="text">
+                    <div class="search-new gray-color">
+                        <div class="btn btn-flat" style="cursor:default;"><i class="fa fa-search"></i></div>
+                        <input class="text-filed" name="searchkey" ng-model="searchkey" type="text">
+                    </div>
                 </div>
-            </div>
-            <div class="field-content search-top float-right">
-                <button class="default-btn" ng-click="doYandexSearch()">Search</button></div>
+                <div class="field-content search-top float-right" style="margin-left: 0px;width:120px;">
+                    <button class="default-btn" ng-click="doYandexSearch()">Search</button>
+                </div>
             </div>
         </div>
     </div>
