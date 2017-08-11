@@ -186,6 +186,7 @@ def yandex_search(keyword, tab):
 
 		# file_video.close()
 		driver.quit()
+	display.stop()
 	return search_results
 
 if __name__ == '__main__':
