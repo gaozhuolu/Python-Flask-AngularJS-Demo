@@ -19,8 +19,14 @@ angular.module('myApp').controller('scrapController',
 
       $http.post('/api/yandex/search', {key:$scope.searchkey, tab:$scope.tab})
           .then(function (response) {
+            if(response.data.status) {
+              $scope.searchlist = response.data.results;
+            }
+            else {
+              $scope.searchlist = null;
+              console.log(response.data.errmsg);
+            }
             $scope.progressbar.complete();
-            $scope.searchlist = response.data.results;
           },
           function (error) {
             $scope.progressbar.complete();
