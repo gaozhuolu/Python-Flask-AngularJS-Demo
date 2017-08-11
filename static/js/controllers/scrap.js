@@ -19,6 +19,7 @@ angular.module('myApp').controller('scrapController',
 
       $http.post('/api/yandex/search', {key:$scope.searchkey, tab:$scope.tab})
           .then(function (response) {
+            console.log(response.data);
             if(response.data.status) {
               $scope.searchlist = response.data.results;
             }

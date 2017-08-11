@@ -1,5 +1,10 @@
 # coding: utf-8
 import os
+
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
+
 import selenium
 from selenium import webdriver
 import time
@@ -10,6 +15,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import math
 import codecs
 from pyvirtualdisplay import Display
+
+import json
 
 # tab : 'web', 'images', 'video'
 def yandex_search(keyword, tab):
@@ -38,7 +45,7 @@ def yandex_search(keyword, tab):
 
 		title_css = "a.link organic__url link_cropped_no i-bem".replace(" ", ".")
 		dscrpt_css = "div.text-container typo typo_text_m typo_line_m organic__text".replace(" ", ".")
-		for i in range(10):
+		for i in range(1):
 			while True:
 				try:
 					titles = driver.find_elements_by_css_selector(title_css)
@@ -78,7 +85,7 @@ def yandex_search(keyword, tab):
 		# image_links = driver.find_elements_by_css_selector("div.serp-item__preview")
 		prev_title = ""
 		prev_dscrpt = ""
-		for i in range(100):
+		for i in range(10):
 			image_links = driver.find_elements_by_css_selector("div.serp-item__preview")
 			image_srcs = driver.find_elements_by_css_selector("img.serp-item__thumb")
 			# print(len(image_links))
@@ -148,7 +155,7 @@ def yandex_search(keyword, tab):
 		driver.get(video_url)
 
 		more_btn_css = "button.button2 button2_size_l button2_theme_action more__button i-bem button2_js_inited".replace(" ", ".")
-		for i in range(10):
+		for i in range(1):
 			while True:
 				try:
 					titles = driver.find_elements_by_css_selector("h2.serp-item__title")
@@ -180,3 +187,15 @@ def yandex_search(keyword, tab):
 		# file_video.close()
 		driver.quit()
 	return search_results
+
+if __name__ == '__main__':
+	try:
+		results = yandex_search(sys.argv[0], sys.argv[1])
+		# results = []
+		# results.append({'title':'test1', 'link':'http://test1.com', 'dscrpt': 'descrption asd'})
+		# results.append({'title':'test2', 'link':'http://test2.com', 'dscrpt': 'descrption qwe'})
+		# results.append({'title':'test3', 'link':'http://test3.com', 'dscrpt': 'descrption zxc'})
+		# print json.dumps({'status':True, 'results':results})
+	except Exception, e:
+		print json.dumps({'status':False, 'errmsg':str(e)})
+
