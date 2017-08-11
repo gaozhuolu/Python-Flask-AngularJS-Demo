@@ -1,4 +1,6 @@
 from flask import Flask, request, jsonify
+from scripts import yandex_scraper
+
 app = Flask(__name__)
 
 @app.route("/")
@@ -11,12 +13,14 @@ def register():
     json_data = request.json
     searchkey = json_data['key']
     searchtab = json_data['tab']
-    print searchkey
-    print searchtab
 
-    results = []
-    results.append({'title': 'asd', 'link': 'qwe', 'description': 'zxc'})
-    return jsonify({'results': results})
+    try:
+        results = yandex_scraper.yandex_search(searchkey, searchtab)
+    except Exception as e:
+        return jsonify({'status': False, 'errmsg': str(e)})
+
+    return jsonify({'status': True, 'results': results})
+
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0')
