@@ -24,7 +24,6 @@ chrome_options = Options()
 chrome_options.add_argument('--no-sandbox')
 chrome_path = "/usr/local/bin/chromedriver"
 driver = webdriver.Chrome(chrome_path, chrome_options=chrome_options)
-driver.maximize_window()
 
 
 delay = 10
@@ -98,7 +97,6 @@ print("-------------------------------------------------------------")
 
 driver.quit()
 driver = webdriver.Chrome(chrome_path, chrome_options=chrome_options)
-driver.maximize_window()
 image_url = "https://yandex.com/images/search?text=" + keyword
 driver.get(image_url)
 
@@ -191,7 +189,6 @@ file_img.close()
 print("-------------------------------------------------------------")
 driver.quit()
 driver = webdriver.Chrome(chrome_path, chrome_options=chrome_options)
-driver.maximize_window()
 video_url = "https://yandex.com/video/search?text=" + keyword
 driver.get(video_url)
 
