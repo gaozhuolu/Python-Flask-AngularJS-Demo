@@ -192,11 +192,11 @@ def yandex_search(keyword, tab):
 
 if __name__ == '__main__':
 	try:
-		# results = yandex_search(sys.argv[0], sys.argv[1])
-		results = []
-		results.append({'title':'test1', 'link':'http://test1.com', 'dscrpt': 'descrption asd'})
-		results.append({'title':'test2', 'link':'http://test2.com', 'dscrpt': 'descrption qwe'})
-		results.append({'title':'test3', 'link':'http://test3.com', 'dscrpt': 'descrption zxc'})
+		results = yandex_search(sys.argv[0], sys.argv[1])
+		#results = []
+		#results.append({'title':'test1', 'link':'http://test1.com', 'dscrpt': 'descrption asd'})
+		#results.append({'title':'test2', 'link':'http://test2.com', 'dscrpt': 'descrption qwe'})
+		#results.append({'title':'test3', 'link':'http://test3.com', 'dscrpt': 'descrption zxc'})
 		print json.dumps({'status':True, 'results':results})
 	except Exception, e:
 		print json.dumps({'status':False, 'errmsg':str(e)})

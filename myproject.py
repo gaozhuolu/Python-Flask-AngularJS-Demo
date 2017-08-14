@@ -15,8 +15,8 @@ def register():
 	searchkey = json_data['key']
 	searchtab = json_data['tab']
 	try:
-		# results = yandex_scraper.yandex_search(searchkey, searchtab)
-		results = subprocess.check_output(['python', './scripts/yandex_scraper.py', searchkey, searchtab])
+		results = yandex_scraper.yandex_search(searchkey, searchtab)
+		# results = subprocess.check_output(['python', './scripts/yandex_scraper.py', searchkey, searchtab])
 	except Exception as e:
 		return jsonify({'status': False, 'errmsg': str(e)})
 
@@ -24,6 +24,6 @@ def register():
 
 
 if __name__ == "__main__":
-	# results = subprocess.check_output(['python', './scripts/yandex_scraper.py', 'nltk', 'video'])
-	# print results
+	results = subprocess.check_output(['python', './scripts/yandex_scraper.py', 'nltk', 'video'])
+	print results
 	app.run(host='0.0.0.0')
