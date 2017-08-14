@@ -5,8 +5,8 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-activate_env = os.path.expanduser('/home/myappuser/myproject/myprojectenv/bin/activate_this.py')
-execfile(activate_env, dict(__file__=activate_env))
+#activate_env = os.path.expanduser('/home/myappuser/myproject/myprojectenv/bin/activate_this.py')
+#execfile(activate_env, dict(__file__=activate_env))
 
 import selenium
 from selenium import webdriver
@@ -26,7 +26,6 @@ def yandex_search(keyword, tab):
 	options.binary_location = '/usr/bin/google-chrome'
 	options.add_argument('headless')
 	options.add_argument('window-size=1200x600')
-	driver = webdriver.Chrome(chrome_options=options)
 
 	delay = 10
 	url = "https://yandex.com/"
@@ -64,6 +63,7 @@ def yandex_search(keyword, tab):
 
 				search_results.append({'title': title, 'link': link, 'dscrpt': dscrpt})
 				print title, link, dscrpt
+				print ' ------------------------- '
 				# file_web.write("\n".join([title, link, dscrpt]) + "\n\n\n")
 
 			next_btn = driver.find_element_by_css_selector("a.link link_ajax_yes pager__item pager__item_kind_next i-bem".replace(" ", "."))
@@ -142,6 +142,8 @@ def yandex_search(keyword, tab):
 			link = driver.find_element_by_css_selector("a.snippet2__link").get_attribute("href")
 
 			search_results.append({'title': title, 'link': image_src.get_attribute("src"), 'dscrpt': dscrpt})
+			print title, image_src.get_attribute("src"), dscrpt
+			print ' ------------------------- '
 			# file_img.write("\n".join([title, image_src.get_attribute("src"), dscrpt]) + "\n\n\n")
 
 			close_btn = driver.find_element_by_xpath('//a[@aria-label="Close"]')
@@ -177,6 +179,8 @@ def yandex_search(keyword, tab):
 				dscrpt = dscrpts[idx].text.replace("\n", " ")
 
 				search_results.append({'title': title, 'link': link, 'dscrpt': dscrpt})
+				print title, link, dscrpt
+				print ' ------ '
 				# file_video.write("\n".join([title, link, dscrpt]) + "\n\n\n")
 				if j == 20 - 1:
 					driver.execute_script("arguments[0].scrollIntoView();", titles[idx])
@@ -188,17 +192,16 @@ def yandex_search(keyword, tab):
 
 		# file_video.close()
 		driver.quit()
-	display.stop()
 	return search_results
 
 if __name__ == '__main__':
 	try:
-		results = yandex_search(sys.argv[0], sys.argv[1])
+		results = yandex_search(sys.argv[1], sys.argv[2])
 		#results = []
 		#results.append({'title':'test1', 'link':'http://test1.com', 'dscrpt': 'descrption asd'})
 		#results.append({'title':'test2', 'link':'http://test2.com', 'dscrpt': 'descrption qwe'})
 		#results.append({'title':'test3', 'link':'http://test3.com', 'dscrpt': 'descrption zxc'})
-		print json.dumps({'status':True, 'results':results})
+		#print json.dumps({'status':True, 'results':results})
 	except Exception, e:
 		print json.dumps({'status':False, 'errmsg':str(e)})
 
