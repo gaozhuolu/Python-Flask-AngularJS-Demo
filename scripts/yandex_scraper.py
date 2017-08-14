@@ -14,19 +14,16 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import math
 import codecs
-from pyvirtualdisplay import Display
 
 import json
 
 # tab : 'web', 'images', 'video'
 def yandex_search(keyword, tab):
-	os.system("pkill chrome")
-	display = Display(visible=0, size=(800, 600))
-	display.start()
-	chrome_options = Options()
-	chrome_options.add_argument('--no-sandbox')
-	chrome_options.add_argument('-start-maximized')
-	chrome_path = "/usr/local/bin/chromedriver"
+	options = webdriver.ChromeOptions()
+	options.binary_location = '/usr/bin/google-chrome'
+	options.add_argument('headless')
+	options.add_argument('window-size=1200x600')
+	driver = webdriver.Chrome(chrome_options=options)
 
 	delay = 10
 	url = "https://yandex.com/"
@@ -35,7 +32,7 @@ def yandex_search(keyword, tab):
 	# img_result = [] # codecs.open("img.txt", "w", "utf8")
 	# video_result = [] # codecs.open("video.txt", "w", "utf8")
 	if tab == 'web':
-		driver = webdriver.Chrome(chrome_path, chrome_options=chrome_options)
+		driver = webdriver.Chrome(chrome_options=options)
 		driver.get(url)
 		search_form = WebDriverWait(driver, delay).until(
 								EC.presence_of_element_located((By.ID, "text"))
@@ -80,7 +77,7 @@ def yandex_search(keyword, tab):
 		# file_web.close()
 		driver.quit()
 	elif tab == 'images':
-		driver = webdriver.Chrome(chrome_path, chrome_options=chrome_options)
+		driver = webdriver.Chrome(chrome_options=options)
 		image_url = "https://yandex.com/images/search?text=" + keyword
 		driver.get(image_url)
 		# image_links = driver.find_elements_by_css_selector("div.serp-item__preview")
@@ -151,7 +148,7 @@ def yandex_search(keyword, tab):
 		# file_img.close()
 		driver.quit()
 	else:
-		driver = webdriver.Chrome(chrome_path, chrome_options=chrome_options)
+		driver = webdriver.Chrome(chrome_options=options)
 		video_url = "https://yandex.com/video/search?text=" + keyword
 		driver.get(video_url)
 
