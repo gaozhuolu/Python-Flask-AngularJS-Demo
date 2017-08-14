@@ -2,34 +2,24 @@
 import os
 import selenium
 from selenium import webdriver
-import time
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import time
 import math
 import codecs
-from pyvirtualdisplay import Display
 
-abspath = os.path.abspath(__file__)
-dname = os.path.dirname(abspath)
-chrome_path = os.path.join(dname, "chromedriver")
 
-os.system("pkill chrome")
-# driver = webdriver.Chrome(chrome_path) 
-display = Display(visible=0, size=(800, 600))
-display.start()
 # driver = webdriver.Chrome(chrome_path)
-chrome_options = Options()
-chrome_options.add_argument('--no-sandbox')
-chrome_path = "/usr/local/bin/chromedriver"
-driver = webdriver.Chrome(chrome_path, chrome_options=chrome_options)
-
+options = webdriver.ChromeOptions()
+options.binary_location = '/usr/bin/google-chrome'
+options.add_argument('headless')
+options.add_argument('window-size=1200x600')
+driver = webdriver.Chrome(chrome_options=options)
 
 delay = 10
 keyword = "nltk"
 url = "https://yandex.com/"
-
 
 file_web = codecs.open("web.txt", "w", "utf8")
 file_img = codecs.open("img.txt", "w", "utf8")
@@ -96,7 +86,7 @@ file_web.close()
 print("-------------------------------------------------------------")
 
 driver.quit()
-driver = webdriver.Chrome(chrome_path, chrome_options=chrome_options)
+driver = webdriver.Chrome(chrome_options=options)
 image_url = "https://yandex.com/images/search?text=" + keyword
 driver.get(image_url)
 
@@ -188,7 +178,7 @@ file_img.close()
 
 print("-------------------------------------------------------------")
 driver.quit()
-driver = webdriver.Chrome(chrome_path, chrome_options=chrome_options)
+driver = webdriver.Chrome(chrome_options=options)
 video_url = "https://yandex.com/video/search?text=" + keyword
 driver.get(video_url)
 
