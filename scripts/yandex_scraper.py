@@ -5,6 +5,9 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
+activate_env = os.path.expanduser('/home/myappuser/myproject/myprojectenv/bin/activate_this.py')
+execfile(activate_env, dict(__file__=activate_env))
+
 import selenium
 from selenium import webdriver
 import time
