@@ -63,6 +63,7 @@ def yandex_search(keyword, tab):
 				dscrpt = dscrpt.text.replace("\n", " ")
 
 				search_results.append({'title': title, 'link': link, 'dscrpt': dscrpt})
+				print title, link, dscrpt
 				# file_web.write("\n".join([title, link, dscrpt]) + "\n\n\n")
 
 			next_btn = driver.find_element_by_css_selector("a.link link_ajax_yes pager__item pager__item_kind_next i-bem".replace(" ", "."))
